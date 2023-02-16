@@ -1,2 +1,28 @@
 
 /* Your CSS Code here. */
+.container{
+	background-color:white;
+	padding:20px;
+	display :flex;
+	flex-direction:row;
+	font-size:40px;
+	justify-content:center;
+	flex-wrap:wrap;
+}
+
+.item1{
+	background-color:green;
+	width:100px;
+	height:100px;
+}
+
+.item2{
+	background-color:orange;
+	width:100px;
+	height:100px;
+}
+.item3{
+	background-color:blue;
+	width:100px;
+	height:100px;
+}
