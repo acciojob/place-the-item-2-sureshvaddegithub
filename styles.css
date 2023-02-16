@@ -1,8 +1,7 @@
 
 /* Your CSS Code here. */
 .holder{
-	background-color:white;
-	padding:20px;
+	
 	display :flex;
 	flex-direction:row;
 	font-size:40px;
